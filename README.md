@@ -1,6 +1,4 @@
-# Frontend Mentor - Tic Tac Toe solution
-
-This is a solution to the [Tic Tac Toe challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tic-tac-toe-game-Re7ZF_E2v). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+# Tic Tac Toe solution
 
 Tic Tac Toe is a simple game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does.
 
@@ -76,44 +74,3 @@ The game is fully responsive and was set with some animations and a little twist
 - CSS Grid
 - SASS
 - Vanilla Javascript
-
-## Testing
-
-### Testing
-
-- HTML
-  No errors were returned when passing through the official W3C validator HTML Validation just one warning related to not using headings inside a section tag which is not necessary in the current case since there is no headings to be displayed over the gallary section.
-  ![](./designs/html-validation.png)
-- CSS
-  No errors were found when passing through the official (Jigsaw) validator CSS Validation
-  ![](./designs/css-validation.png)
-- Js
-  No errors were found using jshint validator
-  ![](./designs/js-validation.png)
-- Page speed
-  The webpage achieved a score of 99 for desktop and 90 for mobile
-  ![](./designs/page-speed-desktop.png)
-  ![](./designs/page-speed-mobile.png)
-- Website accessablity
-  The webpage has a high accessabliity score of 94
-  ![](./designs/accessability-score.png)
-
-### Deployment
-
-The site was deployed to Vercel. The steps to deploy are as follows:
-
-- Create a new GitHub repository with a project name of "RPSLS-Game".
-- Push your project to the GitHub repository.
-- Open the Vercel website and login (Signup if you don't have an account)
-- Create a new project and import the Git repository.
-- The live link can be found here - https://tic-tac-toe-sandy-rho.vercel.app/
-
-## Author
-
-- Frontend Mentor - [@zDevtutor](https://www.frontendmentor.io/profile/zDevtutor)
-
-## Credits
-
-- Frontend mentor for providing the project design mockups.
-- CodeInstitute for provding the README template.
-- The thinking behaviour of CPU was from [@BenjaDotMin](https://github.com/BenjaDotMin)
